@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactmsgboard/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/reactmsgboard/static/js/main.93df7224.chunk.js",
+    "main.js.map": "/reactmsgboard/static/js/main.93df7224.chunk.js.map",
+    "runtime-main.js": "/reactmsgboard/static/js/runtime-main.3645dc34.js",
+    "runtime-main.js.map": "/reactmsgboard/static/js/runtime-main.3645dc34.js.map",
+    "static/js/2.89f8ec7b.chunk.js": "/reactmsgboard/static/js/2.89f8ec7b.chunk.js",
+    "static/js/2.89f8ec7b.chunk.js.map": "/reactmsgboard/static/js/2.89f8ec7b.chunk.js.map",
+    "static/js/3.e1e1d83e.chunk.js": "/reactmsgboard/static/js/3.e1e1d83e.chunk.js",
+    "static/js/3.e1e1d83e.chunk.js.map": "/reactmsgboard/static/js/3.e1e1d83e.chunk.js.map",
+    "index.html": "/reactmsgboard/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/reactmsgboard/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.89f8ec7b.chunk.js.LICENSE.txt": "/reactmsgboard/static/js/2.89f8ec7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3645dc34.js",
+    "static/js/2.89f8ec7b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.93df7224.chunk.js"
+  ]
+}
